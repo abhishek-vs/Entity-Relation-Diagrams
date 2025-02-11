@@ -1,4 +1,4 @@
-# Homework 2: ER Diagram Designs
+# ER Diagram Designs
 
 ## Overview
 
