@@ -41,4 +41,4 @@ To view the rendered report with the ER diagrams, follow these steps:
    Open a terminal and execute:
    ```bash
    git clone https://github.com/abhishek-vs/Entity-Relation-Diagrams
-   cd your-repo
+   cd Entity-Relation-Diagrams
